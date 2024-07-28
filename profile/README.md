@@ -12,4 +12,4 @@ Law Enforcement systems
 - [ ] CMS: Case Management System  
 - [ ] CRS: Crime Reporting System  
 - [ ] Other Services in relation  
-
+- [ ] **Some sort of AI or ML that can take in a description / case, look at the facts, and determine the charges and laws involved**
